@@ -1,0 +1,66 @@
+---
+booktitle: Proceedings of the 34th International Conference on Machine Learning
+shortname: ICML
+year: '2017'
+volume: 70
+start: 2017-08-06
+end: 2017-08-11
+url: http://proceedings.mlr.press
+conference_number: '34'
+published: 2017-07-17
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: ICML2017
+month: 0
+cycles: false
+editor:
+- given: Doina
+  family: Precup
+- given: Yee Whye
+  family: Teh
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 34th International Conference on Machine Learning
+    Held in International Convention Centre, Sydney, Australia on 06-11 August 2017
+
+  Published as Volume 70 by the Proceedings of Machine Learning Research on 17 July 2017.
+
+  Volume Edited by:
+    Doina Precup
+    Yee Whye Teh
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 06--11 Aug
+baseurl: "/v70"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v70
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: International Conference on Machine Learning
+  url: 
+  location: International Convention Centre, Sydney, Australia
+  dates:
+  - 2017-08-06
+  - 2017-08-07
+  - 2017-08-08
+  - 2017-08-09
+  - 2017-08-10
+  - 2017-08-11
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v70/ICML2017.bib
