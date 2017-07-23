@@ -22,8 +22,8 @@ abstract: How can we summarize a dynamic data stream when elements selected for 
   log data, consisting of 45 million feature vectors from a news recommendation task.
 layout: inproceedings
 id: mirzasoleiman17a
-tex_title: 'Deletion-Robust Submodular Maximization: Data Summarization with “the
-  Right to be Forgotten”'
+tex_title: "Deletion-Robust Submodular Maximization: Data Summarization with ``the\
+  \ Right to be Forgotten''"
 firstpage: 2449
 lastpage: 2458
 page: 2449-2458

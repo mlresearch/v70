@@ -1,5 +1,5 @@
 ---
-title: Efficient Online Bandit Multiclass Learning with $\tildeO(\sqrtT)$ Regret
+title: Efficient Online Bandit Multiclass Learning with $\tilde{O}(\sqrt{T})$ Regret
 booktitle: Proceedings of the 34th International Conference on Machine Learning
 year: '2017'
 volume: '70'
