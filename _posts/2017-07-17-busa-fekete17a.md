@@ -16,9 +16,9 @@ abstract: We study the multi-armed bandit (MAB) problem where the agent receives
   using the Generalized Gini Index (GGI) aggregation function. We propose an online
   gradient descent algorithm which exploits the convexity of the GGI aggregation function,
   and controls the exploration in a careful way achieving a distribution-free regret
-  $\tildeO(T^-1/2 )$ with high probability. We test our algorithm on synthetic data
-  as well as on an electric battery control problem where the goal is to trade off
-  the use of the different cells of a battery in order to balance their respective
+  $\tilde{O}(T^{-1/2} )$ with high probability. We test our algorithm on synthetic
+  data as well as on an electric battery control problem where the goal is to trade
+  off the use of the different cells of a battery in order to balance their respective
   degradation rates.
 layout: inproceedings
 id: busa-fekete17a

@@ -16,6 +16,6 @@ DO  - {{ page.doi }}{% endif %}
 L1  - {{ page.pdf }}{% if page.fulltext %}
 L2  - {{ page.fulltext }}{% endif %}
 UR  - {{ site.url }}{{ site.baseurl }}{{ page.url }}
-AB  - {{ page.abstract }}
+AB  - {{ page.abstract | replace: '<em>', '' | replace: '</em>', '' | replace: '&gt;', '>' | replace: '&lt;', '<' }}
 ER  -
 

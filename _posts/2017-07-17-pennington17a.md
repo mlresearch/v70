@@ -16,12 +16,12 @@ abstract: Understanding the geometry of neural network loss surfaces is importan
   of varying energy. We introduce an analytical framework and a set of tools from
   random matrix theory that allow us to compute an approximation of this distribution
   under a set of simplifying assumptions. The shape of the spectrum depends strongly
-  on the energy and another key parameter, $φ$, which measures the ratio of parameters
+  on the energy and another key parameter, $\phi$, which measures the ratio of parameters
   to data points. Our analysis predicts and numerical simulations support that for
   critical points of small index, the number of negative eigenvalues scales like the
   3/2 power of the energy. We leave as an open problem an explanation for our observation
   that, in the context of a certain memorization task, the energy of minimizers is
-  well-approximated by the function $1/2(1-φ)^2$.
+  well-approximated by the function $1/2(1-\phi)^2$.
 layout: inproceedings
 id: pennington17a
 tex_title: Geometry of Neural Network Loss Surfaces via Random Matrix Theory

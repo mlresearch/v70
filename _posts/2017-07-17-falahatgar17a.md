@@ -9,15 +9,16 @@ month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/falahatgar17a/falahatgar17a.pdf
 url: http://proceedings.mlr.press/v70/falahatgar17a.html
-abstract: We consider $(ε,δ)$-PAC maximum-selection and ranking using pairwise comparisons
-  for general probabilistic models whose comparison probabilities satisfy strong stochastic
-  transitivity and stochastic triangle inequality. Modifying the popular knockout
-  tournament, we propose a simple maximum-selection algorithm that uses $\mathcalO\left(\fracnε^2
-  \left(1+\log \frac1δ\right)\right)$ comparisons, optimal up to a constant factor.
-  We then derive a general framework that uses noisy binary search to speed up many
-  ranking algorithms, and combine it with merge sort to obtain a ranking algorithm
-  that uses $\mathcalO\left(\frac nε^2\log n(\log \log n)^3\right)$ comparisons for
-  $δ=\frac1n$, optimal up to a $(\log \log n)^3$ factor.
+abstract: We consider $(\epsilon,\delta)$-PAC maximum-selection and ranking using
+  pairwise comparisons for general probabilistic models whose comparison probabilities
+  satisfy strong stochastic transitivity and stochastic triangle inequality. Modifying
+  the popular knockout tournament, we propose a simple maximum-selection algorithm
+  that uses $\mathcal{O}\left(\frac{n}{\epsilon^2} \left(1+\log \frac1{\delta}\right)\right)$
+  comparisons, optimal up to a constant factor. We then derive a general framework
+  that uses noisy binary search to speed up many ranking algorithms, and combine it
+  with merge sort to obtain a ranking algorithm that uses $\mathcal{O}\left(\frac
+  n{\epsilon^2}\log n(\log \log n)^3\right)$ comparisons for $\delta=\frac1n$, optimal
+  up to a $(\log \log n)^3$ factor.
 layout: inproceedings
 id: falahatgar17a
 tex_title: Maximum Selection and Ranking under Noisy Comparisons

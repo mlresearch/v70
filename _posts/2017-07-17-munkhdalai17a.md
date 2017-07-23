@@ -17,7 +17,7 @@ abstract: Neural networks have been successfully applied in applications with a 
   knowledge across tasks and shifts its inductive biases via fast parameterization
   for rapid generalization. When evaluated on Omniglot and Mini-ImageNet benchmarks,
   our MetaNet models achieve a near human-level performance and outperform the baseline
-  approaches by up to 6% accuracy. We demonstrate several appealing properties of
+  approaches by up to 6\% accuracy. We demonstrate several appealing properties of
   MetaNet relating to generalization and continual learning.
 layout: inproceedings
 id: munkhdalai17a

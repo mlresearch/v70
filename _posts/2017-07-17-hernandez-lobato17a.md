@@ -22,9 +22,9 @@ abstract: Chemical space is so large that brute force searches for new interesti
   sampling (PDTS). We show that, in small scale problems, PDTS performs similarly
   as parallel expected improvement (EI), a batch version of the most widely used BO
   heuristic. Additionally, in settings where parallel EI does not scale, PDTS outperforms
-  other scalable baselines such as a greedy search, $ε$-greedy approaches and a random
-  search method. These results show that PDTS is a successful solution for large-scale
-  parallel BO.
+  other scalable baselines such as a greedy search, $\epsilon$-greedy approaches and
+  a random search method. These results show that PDTS is a successful solution for
+  large-scale parallel BO.
 layout: inproceedings
 id: hernandez-lobato17a
 tex_title: Parallel and Distributed Thompson Sampling for Large-scale Accelerated

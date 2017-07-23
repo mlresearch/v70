@@ -14,12 +14,12 @@ abstract: Popular approaches to differential privacy, such as the Laplace and ex
   non-private function. Bounding such sensitivity is often a prohibitively complex
   analytic calculation. As an alternative, we propose a straightforward sampler for
   estimating sensitivity of non-private mechanisms. Since our sensitivity estimates
-  hold with high probability, any mechanism that would be $(ε,δ)$-differentially private
-  under bounded global sensitivity automatically achieves $(ε,δ,γ)$-random differential
-  privacy (Hall et al. 2012), without any target-specific calculations required. We
-  demonstrate on worked example learners how our usable approach adopts a naturally-relaxed
-  privacy guarantee, while achieving more accurate releases even for non-private functions
-  that are black-box computer programs.
+  hold with high probability, any mechanism that would be $(\epsilon,\delta)$-differentially
+  private under bounded global sensitivity automatically achieves $(\epsilon,\delta,\gamma)$-random
+  differential privacy (Hall et al. 2012), without any target-specific calculations
+  required. We demonstrate on worked example learners how our usable approach adopts
+  a naturally-relaxed privacy guarantee, while achieving more accurate releases even
+  for non-private functions that are black-box computer programs.
 layout: inproceedings
 id: rubinstein17a
 tex_title: Pain-Free Random Differential Privacy with Sensitivity Sampling

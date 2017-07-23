@@ -1,3 +1,4 @@
+{% assign closebrace = '}' %}
 @InProceedings{{o}}{{ id }},
   title = 	 {{o}}{{ page.tex_title }}{{c}},
   author = 	 {{o}}{% assign lastone = page.author.last %}{% for person in page.author %}{{ person.given }} {{ person.family }}{% unless person == lastone %} and {%endunless %}{% endfor %}{{c}},
@@ -13,5 +14,5 @@
   publisher = 	 {PMLR},
   pdf = 	 {{o}}{{ page.pdf }}{{c}},
   url = 	 {{o}}{{site.url}}{{site.baseurl}}{{ page.url }}{{c}},
-  abstract = 	 {{o}}{{ page.abstract }}{{c}}
+  abstract = 	 {{o}}{{ page.abstract | replace: "<em>", "\emph{" | replace: "</em>", closebrace | replace: '&gt;', '>' | replace: '&lt;', '<' }}{{c}}
 {{c}}

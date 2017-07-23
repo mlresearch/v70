@@ -10,12 +10,12 @@ publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/chierichetti17a/chierichetti17a.pdf
 url: http://proceedings.mlr.press/v70/chierichetti17a.html
 abstract: We consider the problem of approximating a given matrix by a low-rank matrix
-  so as to minimize the entrywise $\ell_p$-approximation error, for any $p ≥1$; the
-  case $p = 2$ is the classical SVD problem. We obtain the first provably good approximation
-  algorithms for this robust version of low-rank approximation that work for every
-  value of $p$. Our algorithms are simple, easy to implement, work well in practice,
-  and illustrate interesting tradeoffs between the approximation quality, the running
-  time, and the rank of the approximating matrix.
+  so as to minimize the entrywise $\ell_p$-approximation error, for any $p \geq 1$;
+  the case $p = 2$ is the classical SVD problem. We obtain the first provably good
+  approximation algorithms for this robust version of low-rank approximation that
+  work for every value of $p$. Our algorithms are simple, easy to implement, work
+  well in practice, and illustrate interesting tradeoffs between the approximation
+  quality, the running time, and the rank of the approximating matrix.
 layout: inproceedings
 id: chierichetti17a
 tex_title: Algorithms for $\ell_p$ Low-Rank Approximation
