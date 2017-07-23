@@ -8,8 +8,8 @@ series: Proceedings of Machine Learning Research
 address: 
 month: 0
 publisher: PMLR
-pdf: http://proceedings.mlr.press/v70/hernández-lobato17a/hernández-lobato17a.pdf
-url: http://proceedings.mlr.press/v70/hernandez-lobato17.html
+pdf: http://proceedings.mlr.press/v70/hernandez-lobato17a/hernandez-lobato17a.pdf
+url: http://proceedings.mlr.press/v70/hernandez-lobato17a.html
 abstract: Chemical space is so large that brute force searches for new interesting
   molecules are infeasible. High-throughput virtual screening via computer cluster
   simulations can speed up the discovery process by collecting very large amounts
@@ -26,7 +26,7 @@ abstract: Chemical space is so large that brute force searches for new interesti
   search method. These results show that PDTS is a successful solution for large-scale
   parallel BO.
 layout: inproceedings
-id: hernández-lobato17a
+id: hernandez-lobato17a
 tex_title: Parallel and Distributed Thompson Sampling for Large-scale Accelerated
   Exploration of Chemical Space
 firstpage: 1470

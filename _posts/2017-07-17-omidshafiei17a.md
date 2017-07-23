@@ -9,7 +9,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/omidshafiei17a/omidshafiei17a.pdf
-url: http://proceedings.mlr.press/v70/omidshafiei17.html
+url: http://proceedings.mlr.press/v70/omidshafiei17a.html
 abstract: 'Many real-world tasks involve multiple agents with partial observability
   and limited communication. Learning is challenging in these settings due to local
   viewpoints of agents, which perceive the world as non-stationary due to concurrently-exploring

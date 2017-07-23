@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/jitkrittum17a/jitkrittum17a.pdf
-url: http://proceedings.mlr.press/v70/jitkrittum17.html
+url: http://proceedings.mlr.press/v70/jitkrittum17a.html
 abstract: A new computationally efficient dependence measure, and an adaptive statistical
   test of independence, are proposed. The dependence measure is the difference between
   analytic embeddings of the joint distribution and the product of the marginals,

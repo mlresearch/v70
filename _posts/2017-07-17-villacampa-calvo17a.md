@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/villacampa-calvo17a/villacampa-calvo17a.pdf
-url: http://proceedings.mlr.press/v70/villacampa-calvo17.html
+url: http://proceedings.mlr.press/v70/villacampa-calvo17a.html
 abstract: This paper describes an expectation propagation (EP) method for multi-class
   classification with Gaussian processes that scales well to very large datasets.
   In such a method the estimate of the log-marginal-likelihood involves a sum across

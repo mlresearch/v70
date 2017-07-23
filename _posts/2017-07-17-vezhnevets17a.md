@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/vezhnevets17a/vezhnevets17a.pdf
-url: http://proceedings.mlr.press/v70/vezhnevets17.html
+url: http://proceedings.mlr.press/v70/vezhnevets17a.html
 abstract: 'We introduce FeUdal Networks (FuNs): a novel architecture for hierarchical
   reinforcement learning. Our approach is inspired by the feudal reinforcement learning
   proposal of Dayan and Hinton, and gains power and efficacy by decoupling end-to-end
@@ -23,7 +23,7 @@ abstract: 'We introduce FeUdal Networks (FuNs): a novel architecture for hierarc
   credit assignment or memorisation.'
 layout: inproceedings
 id: vezhnevets17a
-tex_title: "{F}e{U}dal Networks for Hierarchical Reinforcement Learning"
+tex_title: '{F}e{U}dal Networks for Hierarchical Reinforcement Learning'
 firstpage: 3540
 lastpage: 3549
 page: 3540-3549

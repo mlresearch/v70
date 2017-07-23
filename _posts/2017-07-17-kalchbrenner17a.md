@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/kalchbrenner17a/kalchbrenner17a.pdf
-url: http://proceedings.mlr.press/v70/kalchbrenner17.html
+url: http://proceedings.mlr.press/v70/kalchbrenner17a.html
 abstract: We propose a probabilistic video model, the Video Pixel Network (VPN), that
   estimates the discrete joint distribution of the raw pixel values in a video. The
   model and the neural architecture reflect the time, space and color structure of

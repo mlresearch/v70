@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/munkhdalai17a/munkhdalai17a.pdf
-url: http://proceedings.mlr.press/v70/munkhdalai17.html
+url: http://proceedings.mlr.press/v70/munkhdalai17a.html
 abstract: Neural networks have been successfully applied in applications with a large
   amount of labeled data. However, the task of rapid generalization on new concepts
   with small training data while preserving performances on previously learned ones

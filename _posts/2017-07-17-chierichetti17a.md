@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/chierichetti17a/chierichetti17a.pdf
-url: http://proceedings.mlr.press/v70/chierichetti17.html
+url: http://proceedings.mlr.press/v70/chierichetti17a.html
 abstract: We consider the problem of approximating a given matrix by a low-rank matrix
   so as to minimize the entrywise $\ell_p$-approximation error, for any $p ≥1$; the
   case $p = 2$ is the classical SVD problem. We obtain the first provably good approximation

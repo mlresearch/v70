@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/pennington17a/pennington17a.pdf
-url: http://proceedings.mlr.press/v70/pennington17.html
+url: http://proceedings.mlr.press/v70/pennington17a.html
 abstract: Understanding the geometry of neural network loss surfaces is important
   for the development of improved optimization algorithms and for building a theoretical
   understanding of why deep learning works. In this paper, we study the geometry in

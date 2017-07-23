@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/farajtabar17a/farajtabar17a.pdf
-url: http://proceedings.mlr.press/v70/farajtabar17.html
+url: http://proceedings.mlr.press/v70/farajtabar17a.html
 abstract: We propose the first multistage intervention framework that tackles fake
   news in social networks by combining reinforcement learning with a point process
   network activity model. The spread of fake news and mitigation events within the

@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/wichrowska17a/wichrowska17a.pdf
-url: http://proceedings.mlr.press/v70/wichrowska17.html
+url: http://proceedings.mlr.press/v70/wichrowska17a.html
 abstract: Learning to learn has emerged as an important direction for achieving artificial
   intelligence. Two of the primary barriers to its adoption are an inability to scale
   to larger problems and a limited ability to generalize to new tasks. We introduce

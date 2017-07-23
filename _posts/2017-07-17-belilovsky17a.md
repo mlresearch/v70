@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/belilovsky17a/belilovsky17a.pdf
-url: http://proceedings.mlr.press/v70/belilovsky17.html
+url: http://proceedings.mlr.press/v70/belilovsky17a.html
 abstract: 'We consider structure discovery of undirected graphical models from observational
   data. Inferring likely structures from few examples is a complex task often requiring
   the formulation of priors and sophisticated inference procedures. Popular methods

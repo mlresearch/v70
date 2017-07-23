@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/kolesnikov17a/kolesnikov17a.pdf
-url: http://proceedings.mlr.press/v70/kolesnikov17.html
+url: http://proceedings.mlr.press/v70/kolesnikov17a.html
 abstract: 'We study probabilistic models of natural images and extend the autoregressive
   family of PixelCNN models by incorporating auxiliary variables. Subsequently, we
   describe two new generative image models that exploit different image transformations
@@ -21,7 +21,7 @@ abstract: 'We study probabilistic models of natural images and extend the autore
   image samples than previous state-of-the-art probabilistic models.'
 layout: inproceedings
 id: kolesnikov17a
-tex_title: "{P}ixel{CNN} Models with Auxiliary Variables for Natural Image Modeling"
+tex_title: '{P}ixel{CNN} Models with Auxiliary Variables for Natural Image Modeling'
 firstpage: 1905
 lastpage: 1914
 page: 1905-1914

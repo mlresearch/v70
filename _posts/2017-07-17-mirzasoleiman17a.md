@@ -9,7 +9,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/mirzasoleiman17a/mirzasoleiman17a.pdf
-url: http://proceedings.mlr.press/v70/mirzasoleiman17.html
+url: http://proceedings.mlr.press/v70/mirzasoleiman17a.html
 abstract: How can we summarize a dynamic data stream when elements selected for the
   summary can be deleted at any time? This is an important challenge in online services,
   where the users generating the data may decide to exercise their right to restrict

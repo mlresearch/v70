@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/macglashan17a/macglashan17a.pdf
-url: http://proceedings.mlr.press/v70/macglashan17.html
+url: http://proceedings.mlr.press/v70/macglashan17a.html
 abstract: This paper investigates the problem of interactively learning behaviors
   communicated by a human teacher using positive and negative feedback. Much previous
   work on this problem has made the assumption that people provide feedback for decisions

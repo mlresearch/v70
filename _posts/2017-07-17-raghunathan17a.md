@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/raghunathan17a/raghunathan17a.pdf
-url: http://proceedings.mlr.press/v70/raghunathan17.html
+url: http://proceedings.mlr.press/v70/raghunathan17a.html
 abstract: Given samples from a distribution, how many new elements should we expect
   to find if we keep on sampling this distribution? This is an important and actively
   studied problem, with many applications ranging from species estimation to genomics.

@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/shalev-shwartz17a/shalev-shwartz17a.pdf
-url: http://proceedings.mlr.press/v70/shalev-shwartz17.html
+url: http://proceedings.mlr.press/v70/shalev-shwartz17a.html
 abstract: In recent years, Deep Learning has become the go-to solution for a broad
   range of applications, often outperforming state-of-the-art. However, it is important,
   for both theoreticians and practitioners, to gain a deeper understanding of the

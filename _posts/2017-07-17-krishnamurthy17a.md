@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/krishnamurthy17a/krishnamurthy17a.pdf
-url: http://proceedings.mlr.press/v70/krishnamurthy17.html
+url: http://proceedings.mlr.press/v70/krishnamurthy17a.html
 abstract: 'We design an active learning algorithm for cost-sensitive multiclass classification:
   problems where different errors have different costs. Our algorithm, COAL, makes
   predictions by regressing to each label’s cost and predicting the smallest. On a

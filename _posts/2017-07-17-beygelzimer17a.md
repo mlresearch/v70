@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/beygelzimer17a/beygelzimer17a.pdf
-url: http://proceedings.mlr.press/v70/beygelzimer17.html
+url: http://proceedings.mlr.press/v70/beygelzimer17a.html
 abstract: We present an efficient second-order algorithm with tildeO(1/eta sqrtT)
   regret for the bandit online multiclass problem. The regret bound holds simultaneously
   with respect to a family of loss functions parameterized by eta, ranging from hinge

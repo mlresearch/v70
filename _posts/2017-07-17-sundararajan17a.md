@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/sundararajan17a/sundararajan17a.pdf
-url: http://proceedings.mlr.press/v70/sundararajan17.html
+url: http://proceedings.mlr.press/v70/sundararajan17a.html
 abstract: We study the problem of attributing the prediction of a deep network to
   its input features, a problem previously studied by several other works. We identify
   two fundamental axioms—Sensitivity and Implementation Invariance that attribution

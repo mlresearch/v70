@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/kucukelbir17a/kucukelbir17a.pdf
-url: http://proceedings.mlr.press/v70/kucukelbir17.html
+url: http://proceedings.mlr.press/v70/kucukelbir17a.html
 abstract: 'Probabilistic modeling is cyclical: we specify a model, infer its posterior,
   and evaluate its performance. Evaluation drives the cycle, as we revise our model
   based on how it performs. This requires a metric. Traditionally, predictive accuracy

@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/tripuraneni17a/tripuraneni17a.pdf
-url: http://proceedings.mlr.press/v70/tripuraneni17.html
+url: http://proceedings.mlr.press/v70/tripuraneni17a.html
 abstract: Hamiltonian Monte Carlo (HMC) exploits Hamiltonian dynamics to construct
   efficient proposals for Markov chain Monte Carlo (MCMC). In this paper, we present
   a generalization of HMC which exploits non-canonical Hamiltonian dynamics. We refer

@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/diakonikolas17a/diakonikolas17a.pdf
-url: http://proceedings.mlr.press/v70/diakonikolas17.html
+url: http://proceedings.mlr.press/v70/diakonikolas17a.html
 abstract: 'Robust estimation is much more challenging in high-dimensions than it is
   in one-dimension: Most techniques either lead to intractable optimization problems
   or estimators that can tolerate only a tiny fraction of errors. Recent work in theoretical

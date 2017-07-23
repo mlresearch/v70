@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/bojanowski17a/bojanowski17a.pdf
-url: http://proceedings.mlr.press/v70/bojanowski17.html
+url: http://proceedings.mlr.press/v70/bojanowski17a.html
 abstract: Convolutional neural networks provide visual features that perform remarkably
   well in many computer vision applications. However, training these networks requires
   significant amounts of supervision; this paper introduces a generic framework to

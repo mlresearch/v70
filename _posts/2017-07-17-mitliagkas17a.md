@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/mitliagkas17a/mitliagkas17a.pdf
-url: http://proceedings.mlr.press/v70/mitliagkas17.html
+url: http://proceedings.mlr.press/v70/mitliagkas17a.html
 abstract: The pairwise influence matrix of Dobrushin has long been used as an analytical
   tool to bound the rate of convergence of Gibbs sampling. In this work, we use Dobrushin
   influence as the basis of a practical tool to certify and efficiently improve the

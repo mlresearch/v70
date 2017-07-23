@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/rubinstein17a/rubinstein17a.pdf
-url: http://proceedings.mlr.press/v70/rubinstein17.html
+url: http://proceedings.mlr.press/v70/rubinstein17a.html
 abstract: Popular approaches to differential privacy, such as the Laplace and exponential
   mechanisms, calibrate randomised smoothing through global sensitivity of the target
   non-private function. Bounding such sensitivity is often a prohibitively complex

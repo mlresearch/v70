@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/mirhoseini17a/mirhoseini17a.pdf
-url: http://proceedings.mlr.press/v70/mirhoseini17.html
+url: http://proceedings.mlr.press/v70/mirhoseini17a.html
 abstract: The past few years have witnessed a growth in size and computational requirements
   for training and inference with neural networks. Currently, a common approach to
   address these requirements is to use a heterogeneous distributed environment with

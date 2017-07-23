@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/cherapanamjeri17a/cherapanamjeri17a.pdf
-url: http://proceedings.mlr.press/v70/cherapanamjeri17.html
+url: http://proceedings.mlr.press/v70/cherapanamjeri17a.html
 abstract: In this paper, we consider the problem of Robust Matrix Completion (RMC)
   where the goal is to recover a low-rank matrix by observing a small number of its
   entries out of which a few can be arbitrarily corrupted. We propose a simple projected

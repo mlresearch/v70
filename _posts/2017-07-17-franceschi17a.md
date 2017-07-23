@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/franceschi17a/franceschi17a.pdf
-url: http://proceedings.mlr.press/v70/franceschi17.html
+url: http://proceedings.mlr.press/v70/franceschi17a.html
 abstract: We study two procedures (reverse-mode and forward-mode) for computing the
   gradient of the validation error with respect to the hyperparameters of any iterative
   learning algorithm such as stochastic gradient descent. These procedures mirror

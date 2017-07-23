@@ -7,8 +7,8 @@ series: Proceedings of Machine Learning Research
 address: 
 month: 0
 publisher: PMLR
-pdf: http://proceedings.mlr.press/v70/dembczyński17a/dembczyński17a.pdf
-url: http://proceedings.mlr.press/v70/dembczynski17.html
+pdf: http://proceedings.mlr.press/v70/dembczynski17a/dembczynski17a.pdf
+url: http://proceedings.mlr.press/v70/dembczynski17a.html
 abstract: Statistical learning theory is at an inflection point enabled by recent
   advances in understanding and optimizing a wide range of metrics. Of particular
   interest are non-decomposable metrics such as the F-measure and the Jaccard measure
@@ -21,7 +21,7 @@ abstract: Statistical learning theory is at an inflection point enabled by recen
   settings, and provides guidance to the theory and practice of binary classification
   with complex metrics.
 layout: inproceedings
-id: dembczyński17a
+id: dembczynski17a
 tex_title: Consistency Analysis for Binary Classification Revisited
 firstpage: 961
 lastpage: 969

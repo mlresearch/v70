@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/busa-fekete17a/busa-fekete17a.pdf
-url: http://proceedings.mlr.press/v70/busa-fekete17.html
+url: http://proceedings.mlr.press/v70/busa-fekete17a.html
 abstract: We study the multi-armed bandit (MAB) problem where the agent receives a
   vectorial feedback that encodes many possibly competing objectives to be optimized.
   The goal of the agent is to find a policy, which can optimize these objectives simultaneously

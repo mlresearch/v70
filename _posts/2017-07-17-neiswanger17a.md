@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/neiswanger17a/neiswanger17a.pdf
-url: http://proceedings.mlr.press/v70/neiswanger17.html
+url: http://proceedings.mlr.press/v70/neiswanger17a.html
 abstract: 'While Bayesian methods are praised for their ability to incorporate useful
   prior knowledge, in practice, convenient priors that allow for computationally cheap
   or tractable inference are commonly used. In this paper, we investigate the following

@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/ravanbakhsh17a/ravanbakhsh17a.pdf
-url: http://proceedings.mlr.press/v70/ravanbakhsh17.html
+url: http://proceedings.mlr.press/v70/ravanbakhsh17a.html
 abstract: We propose to study equivariance in deep neural networks through parameter
   symmetries. In particular, given a group G that acts discretely on the input and
   output of a standard neural network layer, we show that its equivariance is linked

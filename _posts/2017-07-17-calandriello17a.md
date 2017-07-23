@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/calandriello17a/calandriello17a.pdf
-url: http://proceedings.mlr.press/v70/calandriello17.html
+url: http://proceedings.mlr.press/v70/calandriello17a.html
 abstract: Kernel online convex optimization (KOCO) is a framework combining the expressiveness
   of non-parametric kernel models with the regret guarantees of online learning. First-order
   KOCO methods such as functional gradient descent require only $O(t)$ time and space

@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/falahatgar17a/falahatgar17a.pdf
-url: http://proceedings.mlr.press/v70/falahatgar17.html
+url: http://proceedings.mlr.press/v70/falahatgar17a.html
 abstract: We consider $(ε,δ)$-PAC maximum-selection and ranking using pairwise comparisons
   for general probabilistic models whose comparison probabilities satisfy strong stochastic
   transitivity and stochastic triangle inequality. Modifying the popular knockout

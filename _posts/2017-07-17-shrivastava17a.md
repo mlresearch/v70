@@ -8,7 +8,7 @@ address:
 month: 0
 publisher: PMLR
 pdf: http://proceedings.mlr.press/v70/shrivastava17a/shrivastava17a.pdf
-url: http://proceedings.mlr.press/v70/shrivastava17.html
+url: http://proceedings.mlr.press/v70/shrivastava17a.html
 abstract: Minwise hashing is a fundamental and one of the most successful hashing
   algorithm in the literature. Recent advances based on the idea of densification
   (Shrivastava & Li, 2014) have shown that it is possible to compute $k$ minwise hashes,
