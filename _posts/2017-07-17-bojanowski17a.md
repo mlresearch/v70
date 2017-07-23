@@ -23,6 +23,7 @@ abstract: Convolutional neural networks provide visual features that perform rem
 layout: inproceedings
 id: bojanowski17a
 tex_title: Unsupervised Learning by Predicting Noise
+bibtex_author: Piotr Bojanowski and Armand Joulin
 firstpage: 517
 lastpage: 526
 page: 517-526

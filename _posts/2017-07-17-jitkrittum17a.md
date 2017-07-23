@@ -24,6 +24,7 @@ abstract: A new computationally efficient dependence measure, and an adaptive st
 layout: inproceedings
 id: jitkrittum17a
 tex_title: An Adaptive Test of Independence with Analytic Kernel Embeddings
+bibtex_author: Wittawat Jitkrittum and Zolt{\'a}n Szab{\'o} and Arthur Gretton
 firstpage: 1742
 lastpage: 1751
 page: 1742-1751

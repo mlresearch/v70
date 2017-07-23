@@ -22,6 +22,7 @@ abstract: The pairwise influence matrix of Dobrushin has long been used as an an
 layout: inproceedings
 id: mitliagkas17a
 tex_title: Improving {G}ibbs Sampler Scan Quality with {D}o{GS}
+bibtex_author: Ioannis Mitliagkas and Lester Mackey
 firstpage: 2469
 lastpage: 2477
 page: 2469-2477

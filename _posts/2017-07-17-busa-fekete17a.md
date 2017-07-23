@@ -23,6 +23,8 @@ abstract: We study the multi-armed bandit (MAB) problem where the agent receives
 layout: inproceedings
 id: busa-fekete17a
 tex_title: 'Multi-objective Bandits: Optimizing the Generalized {G}ini Index'
+bibtex_author: R{\'o}bert Busa-Fekete and Bal{\'a}zs Sz{\"o}r{\'e}nyi and Paul Weng
+  and Shie Mannor
 firstpage: 625
 lastpage: 634
 page: 625-634

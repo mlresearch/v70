@@ -20,6 +20,8 @@ abstract: We propose a probabilistic video model, the Video Pixel Network (VPN),
 layout: inproceedings
 id: kalchbrenner17a
 tex_title: Video Pixel Networks
+bibtex_author: Nal Kalchbrenner and A{\"a}ron van den Oord and Karen Simonyan and
+  Ivo Danihelka and Oriol Vinyals and Alex Graves and Koray Kavukcuoglu
 firstpage: 1771
 lastpage: 1779
 page: 1771-1779

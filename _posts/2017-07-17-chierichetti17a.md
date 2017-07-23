@@ -19,6 +19,8 @@ abstract: We consider the problem of approximating a given matrix by a low-rank 
 layout: inproceedings
 id: chierichetti17a
 tex_title: Algorithms for $\ell_p$ Low-Rank Approximation
+bibtex_author: Flavio Chierichetti and Sreenivas Gollapudi and Ravi Kumar and Silvio
+  Lattanzi and Rina Panigrahy and David P. Woodruff
 firstpage: 806
 lastpage: 814
 page: 806-814

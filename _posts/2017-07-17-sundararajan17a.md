@@ -23,6 +23,7 @@ abstract: We study the problem of attributing the prediction of a deep network t
 layout: inproceedings
 id: sundararajan17a
 tex_title: Axiomatic Attribution for Deep Networks
+bibtex_author: Mukund Sundararajan and Ankur Taly and Qiqi Yan
 firstpage: 3319
 lastpage: 3328
 page: 3319-3328

@@ -22,6 +22,8 @@ abstract: This paper investigates the problem of interactively learning behavior
 layout: inproceedings
 id: macglashan17a
 tex_title: Interactive Learning from Policy-Dependent Human Feedback
+bibtex_author: James MacGlashan and Mark K. Ho and Robert Loftin and Bei Peng and
+  Guan Wang and David L. Roberts and Matthew E. Taylor and Michael L. Littman
 firstpage: 2285
 lastpage: 2294
 page: 2285-2294

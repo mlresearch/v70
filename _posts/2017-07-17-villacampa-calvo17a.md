@@ -27,6 +27,7 @@ layout: inproceedings
 id: villacampa-calvo17a
 tex_title: Scalable Multi-Class {G}aussian Process Classification using Expectation
   Propagation
+bibtex_author: Carlos Villacampa-Calvo and Daniel Hern{\'a}ndez-Lobato
 firstpage: 3550
 lastpage: 3559
 page: 3550-3559

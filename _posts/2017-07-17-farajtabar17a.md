@@ -24,6 +24,8 @@ abstract: We propose the first multistage intervention framework that tackles fa
 layout: inproceedings
 id: farajtabar17a
 tex_title: Fake News Mitigation via Point Process Based Intervention
+bibtex_author: Mehrdad Farajtabar and Jiachen Yang and Xiaojing Ye and Huan Xu and
+  Rakshit Trivedi and Elias Khalil and Shuang Li and Le Song and Hongyuan Zha
 firstpage: 1097
 lastpage: 1106
 page: 1097-1106

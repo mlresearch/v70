@@ -25,6 +25,7 @@ abstract: Understanding the geometry of neural network loss surfaces is importan
 layout: inproceedings
 id: pennington17a
 tex_title: Geometry of Neural Network Loss Surfaces via Random Matrix Theory
+bibtex_author: Jeffrey Pennington and Yasaman Bahri
 firstpage: 2798
 lastpage: 2806
 page: 2798-2806

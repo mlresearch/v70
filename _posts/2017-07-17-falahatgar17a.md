@@ -22,6 +22,8 @@ abstract: We consider $(\epsilon,\delta)$-PAC maximum-selection and ranking usin
 layout: inproceedings
 id: falahatgar17a
 tex_title: Maximum Selection and Ranking under Noisy Comparisons
+bibtex_author: Moein Falahatgar and Alon Orlitsky and Venkatadheeraj Pichapati and
+  Ananda Theertha Suresh
 firstpage: 1088
 lastpage: 1096
 page: 1088-1096

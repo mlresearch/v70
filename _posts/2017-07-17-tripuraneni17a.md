@@ -21,6 +21,8 @@ abstract: Hamiltonian Monte Carlo (HMC) exploits Hamiltonian dynamics to constru
 layout: inproceedings
 id: tripuraneni17a
 tex_title: Magnetic {H}amiltonian {M}onte {C}arlo
+bibtex_author: Nilesh Tripuraneni and Mark Rowland and Zoubin Ghahramani and Richard
+  Turner
 firstpage: 3453
 lastpage: 3461
 page: 3453-3461

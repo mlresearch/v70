@@ -29,6 +29,7 @@ abstract: Kernel online convex optimization (KOCO) is a framework combining the 
 layout: inproceedings
 id: calandriello17a
 tex_title: Second-Order Kernel Online Convex Optimization with Adaptive Sketching
+bibtex_author: Daniele Calandriello and Alessandro Lazaric and Michal Valko
 firstpage: 645
 lastpage: 653
 page: 645-653

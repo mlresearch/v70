@@ -20,6 +20,7 @@ abstract: We propose to study equivariance in deep neural networks through param
 layout: inproceedings
 id: ravanbakhsh17a
 tex_title: Equivariance Through Parameter-Sharing
+bibtex_author: Siamak Ravanbakhsh and Jeff Schneider and Barnab{\'a}s P{\'o}czos
 firstpage: 2892
 lastpage: 2901
 page: 2892-2901

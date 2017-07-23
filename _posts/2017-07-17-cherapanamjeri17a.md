@@ -26,6 +26,7 @@ abstract: In this paper, we consider the problem of Robust Matrix Completion (RM
 layout: inproceedings
 id: cherapanamjeri17a
 tex_title: Nearly Optimal Robust Matrix Completion
+bibtex_author: Yeshwanth Cherapanamjeri and Kartik Gupta and Prateek Jain
 firstpage: 797
 lastpage: 805
 page: 797-805

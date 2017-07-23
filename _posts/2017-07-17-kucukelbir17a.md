@@ -23,6 +23,7 @@ abstract: 'Probabilistic modeling is cyclical: we specify a model, infer its pos
 layout: inproceedings
 id: kucukelbir17a
 tex_title: Evaluating {B}ayesian Models with Posterior Dispersion Indices
+bibtex_author: Alp Kucukelbir and Yixin Wang and David M. Blei
 firstpage: 1925
 lastpage: 1934
 page: 1925-1934

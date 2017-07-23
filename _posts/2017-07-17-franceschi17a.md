@@ -24,6 +24,8 @@ abstract: We study two procedures (reverse-mode and forward-mode) for computing 
 layout: inproceedings
 id: franceschi17a
 tex_title: Forward and Reverse Gradient-Based Hyperparameter Optimization
+bibtex_author: Luca Franceschi and Michele Donini and Paolo Frasconi and Massimiliano
+  Pontil
 firstpage: 1165
 lastpage: 1173
 page: 1165-1173

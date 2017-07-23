@@ -26,6 +26,8 @@ abstract: Learning to learn has emerged as an important direction for achieving 
 layout: inproceedings
 id: wichrowska17a
 tex_title: Learned Optimizers that Scale and Generalize
+bibtex_author: Olga Wichrowska and Niru Maheswaranathan and Matthew W. Hoffman and
+  Sergio G{\'o}mez Colmenarejo and Misha Denil and Nando de Freitas and Jascha Sohl-Dickstein
 firstpage: 3751
 lastpage: 3760
 page: 3751-3760

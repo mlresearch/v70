@@ -24,6 +24,7 @@ layout: inproceedings
 id: mirzasoleiman17a
 tex_title: "Deletion-Robust Submodular Maximization: Data Summarization with ``the\
   \ Right to be Forgotten''"
+bibtex_author: Baharan Mirzasoleiman and Amin Karbasi and Andreas Krause
 firstpage: 2449
 lastpage: 2458
 page: 2449-2458

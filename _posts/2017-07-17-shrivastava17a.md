@@ -29,6 +29,7 @@ abstract: Minwise hashing is a fundamental and one of the most successful hashin
 layout: inproceedings
 id: shrivastava17a
 tex_title: Optimal Densification for Fast and Accurate Minwise Hashing
+bibtex_author: Anshumali Shrivastava
 firstpage: 3154
 lastpage: 3163
 page: 3154-3163

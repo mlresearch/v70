@@ -22,6 +22,7 @@ abstract: 'We study probabilistic models of natural images and extend the autore
 layout: inproceedings
 id: kolesnikov17a
 tex_title: '{P}ixel{CNN} Models with Auxiliary Variables for Natural Image Modeling'
+bibtex_author: Alexander Kolesnikov and Christoph H. Lampert
 firstpage: 1905
 lastpage: 1914
 page: 1905-1914

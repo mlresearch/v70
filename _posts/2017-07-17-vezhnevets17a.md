@@ -24,6 +24,8 @@ abstract: 'We introduce FeUdal Networks (FuNs): a novel architecture for hierarc
 layout: inproceedings
 id: vezhnevets17a
 tex_title: '{F}e{U}dal Networks for Hierarchical Reinforcement Learning'
+bibtex_author: Alexander Sasha Vezhnevets and Simon Osindero and Tom Schaul and Nicolas
+  Heess and Max Jaderberg and David Silver and Koray Kavukcuoglu
 firstpage: 3540
 lastpage: 3549
 page: 3540-3549

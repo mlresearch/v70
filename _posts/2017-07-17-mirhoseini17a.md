@@ -26,6 +26,9 @@ abstract: The past few years have witnessed a growth in size and computational r
 layout: inproceedings
 id: mirhoseini17a
 tex_title: Device Placement Optimization with Reinforcement Learning
+bibtex_author: Azalia Mirhoseini and Hieu Pham and Quoc V. Le and Benoit Steiner and
+  Rasmus Larsen and Yuefeng Zhou and Naveen Kumar and Mohammad Norouzi and Samy Bengio
+  and Jeff Dean
 firstpage: 2430
 lastpage: 2439
 page: 2430-2439

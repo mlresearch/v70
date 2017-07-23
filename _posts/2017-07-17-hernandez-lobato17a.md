@@ -29,6 +29,8 @@ layout: inproceedings
 id: hernandez-lobato17a
 tex_title: Parallel and Distributed Thompson Sampling for Large-scale Accelerated
   Exploration of Chemical Space
+bibtex_author: Jos{\'e} Miguel Hern{\'a}ndez-Lobato and James Requeima and Edward
+  O. Pyzer-Knapp and Al{\'a}n Aspuru-Guzik
 firstpage: 1470
 lastpage: 1479
 page: 1470-1479

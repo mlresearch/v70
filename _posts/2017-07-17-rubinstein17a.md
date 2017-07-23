@@ -23,6 +23,7 @@ abstract: Popular approaches to differential privacy, such as the Laplace and ex
 layout: inproceedings
 id: rubinstein17a
 tex_title: Pain-Free Random Differential Privacy with Sensitivity Sampling
+bibtex_author: Benjamin I. P. Rubinstein and Francesco Ald{\`a}
 firstpage: 2950
 lastpage: 2959
 page: 2950-2959

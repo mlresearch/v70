@@ -20,6 +20,7 @@ abstract: In recent years, Deep Learning has become the go-to solution for a bro
 layout: inproceedings
 id: shalev-shwartz17a
 tex_title: Failures of Gradient-Based Deep Learning
+bibtex_author: Shai Shalev-Shwartz and Ohad Shamir and Shaked Shammah
 firstpage: 3067
 lastpage: 3075
 page: 3067-3075

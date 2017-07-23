@@ -25,6 +25,7 @@ abstract: Given samples from a distribution, how many new elements should we exp
 layout: inproceedings
 id: raghunathan17a
 tex_title: Estimating the unseen from multiple populations
+bibtex_author: Aditi Raghunathan and Gregory Valiant and James Zou
 firstpage: 2855
 lastpage: 2863
 page: 2855-2863

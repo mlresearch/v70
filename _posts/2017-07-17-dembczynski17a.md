@@ -23,6 +23,8 @@ abstract: Statistical learning theory is at an inflection point enabled by recen
 layout: inproceedings
 id: dembczynski17a
 tex_title: Consistency Analysis for Binary Classification Revisited
+bibtex_author: Krzysztof Dembczy{\'{n}}ski and Wojciech Kot{\l}owski and Oluwasanmi
+  Koyejo and Nagarajan Natarajan
 firstpage: 961
 lastpage: 969
 page: 961-969

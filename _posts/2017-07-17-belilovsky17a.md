@@ -30,6 +30,8 @@ abstract: 'We consider structure discovery of undirected graphical models from o
 layout: inproceedings
 id: belilovsky17a
 tex_title: Learning to Discover Sparse Graphical Models
+bibtex_author: Eugene Belilovsky and Kyle Kastner and Gael Varoquaux and Matthew B.
+  Blaschko
 firstpage: 440
 lastpage: 448
 page: 440-448

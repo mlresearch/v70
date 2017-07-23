@@ -22,6 +22,8 @@ abstract: 'We design an active learning algorithm for cost-sensitive multiclass 
 layout: inproceedings
 id: krishnamurthy17a
 tex_title: Active Learning for Cost-Sensitive Classification
+bibtex_author: Akshay Krishnamurthy and Alekh Agarwal and Tzu-Kuo Huang and Daum{\'e},
+  III, Hal and John Langford
 firstpage: 1915
 lastpage: 1924
 page: 1915-1924

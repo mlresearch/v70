@@ -22,6 +22,7 @@ abstract: Neural networks have been successfully applied in applications with a 
 layout: inproceedings
 id: munkhdalai17a
 tex_title: Meta Networks
+bibtex_author: Tsendsuren Munkhdalai and Hong Yu
 firstpage: 2554
 lastpage: 2563
 page: 2554-2563

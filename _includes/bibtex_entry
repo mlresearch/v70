@@ -1,7 +1,7 @@
 {% assign closebrace = '}' %}
 @InProceedings{{o}}{{ id }},
   title = 	 {{o}}{{ page.tex_title }}{{c}},
-  author = 	 {{o}}{% assign lastone = page.author.last %}{% for person in page.author %}{{ person.given }} {{ person.family }}{% unless person == lastone %} and {%endunless %}{% endfor %}{{c}},
+  author = 	 {{o}}{{ page.bibtex_author }}{{c}},
   booktitle = 	 {{o}}{{ page.container-title }}{{c}},
   pages = 	 {{o}}{{ page.firstpage }}--{{ page.lastpage }}{{c}},
   year = 	 {{o}}{{ site.published | date: "%Y" }}{{c}},

@@ -20,6 +20,7 @@ layout: inproceedings
 id: beygelzimer17a
 tex_title: Efficient Online Bandit Multiclass Learning with $\tilde{O}(\sqrt{T})$
   Regret
+bibtex_author: Alina Beygelzimer and Francesco Orabona and Chicheng Zhang
 firstpage: 488
 lastpage: 497
 page: 488-497

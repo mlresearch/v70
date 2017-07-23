@@ -26,6 +26,8 @@ layout: inproceedings
 id: omidshafiei17a
 tex_title: Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under
   Partial Observability
+bibtex_author: Shayegan Omidshafiei and Jason Pazis and Christopher Amato and Jonathan
+  P. How and John Vian
 firstpage: 2681
 lastpage: 2690
 page: 2681-2690

@@ -25,6 +25,8 @@ abstract: 'Robust estimation is much more challenging in high-dimensions than it
 layout: inproceedings
 id: diakonikolas17a
 tex_title: Being Robust (in High Dimensions) Can Be Practical
+bibtex_author: Ilias Diakonikolas and Gautam Kamath and Daniel M. Kane and Jerry Li
+  and Ankur Moitra and Alistair Stewart
 firstpage: 999
 lastpage: 1008
 page: 999-1008

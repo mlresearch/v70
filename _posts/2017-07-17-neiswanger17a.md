@@ -26,6 +26,7 @@ abstract: 'While Bayesian methods are praised for their ability to incorporate u
 layout: inproceedings
 id: neiswanger17a
 tex_title: Post-Inference Prior Swapping
+bibtex_author: Willie Neiswanger and Eric Xing
 firstpage: 2594
 lastpage: 2602
 page: 2594-2602
