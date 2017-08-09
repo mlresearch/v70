@@ -52,6 +52,8 @@ issued:
   - 2017
   - 7
   - 17
-extras: []
+extras:
+- label: Supplementary PDF
+  link: http://proceedings.mlr.press/v70/dembczynski17a/dembczynski17a-supp.pdf
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
