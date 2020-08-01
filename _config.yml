@@ -6,6 +6,8 @@ volume: 70
 start: 2017-08-06
 end: 2017-08-11
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 conference_number: '34'
 published: 2017-07-17
 layout: proceedings
