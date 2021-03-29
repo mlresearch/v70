@@ -42,7 +42,8 @@ author:
 - given: Tzu-Kuo
   family: Huang
 - given: Hal
-  family: Daumé III
+  family: Daumé
+  suffix: III
 - given: John
   family: Langford
 date: 2017-07-17
