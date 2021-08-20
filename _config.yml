@@ -6,7 +6,7 @@ year: '2017'
 volume: 70
 start: 2017-08-06
 end: 2017-08-11
-url: http://proceedings.mlr.press
+url: https://proceedings.mlr.press
 author:
   name: PMLR
 conference_number: '34'
